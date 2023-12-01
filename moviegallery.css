@@ -1,0 +1,65 @@
+h1{
+    color: red;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: black;
+}
+.row{
+    width: 90%;
+    height: 500px;
+    /* border: solid red 6px; */
+    position: relative;
+}
+.c{
+    width:350px;
+    height: 400px;
+    border: solid red 3px;
+    position: absolute;
+    top: 40px;
+    left: 30px;   
+}
+.st{
+    width: 300px;
+    height: 30px;
+    border: double white;
+    position: absolute;
+    left: 20px;
+    top: 350px;
+    text-align: center;
+}
+.c1{
+    left: 100px;
+}
+.c2{
+    left: 700px;
+}
+.c3{
+    left: 1300px;
+}
+h1{
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.856);
+}
+img{
+    height: 275px;
+    width: 100%;
+}
+#mn{
+    text-align: left;
+    /* background-color: black; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#lk{
+    text-align: center;
+    background-image: url(./Images/marvel.jpeg);
+    width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-left: 2px;
+}
